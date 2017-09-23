@@ -18,7 +18,7 @@ namespace Iuli_problem_1
             Person ivan = new Person("Ivan", 25);
 
             Console.WriteLine(pesho.ToString());
-            Console.WriteLine(ivan.ToString());
+            Console.WriteLine("\n" + ivan.ToString());
 
         }
     }
