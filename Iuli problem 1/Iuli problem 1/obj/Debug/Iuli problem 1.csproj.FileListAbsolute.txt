@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\bin\Debug\Iuli problem 1.exe.config
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\bin\Debug\Iuli problem 1.exe
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\bin\Debug\Iuli problem 1.pdb
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\obj\Debug\Iuli problem 1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\obj\Debug\Iuli problem 1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\obj\Debug\Iuli problem 1.exe
+C:\Users\ASUS\Desktop\Practice\Iuli problem 1\Iuli problem 1\obj\Debug\Iuli problem 1.pdb
