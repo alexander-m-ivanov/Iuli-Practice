@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\bin\Debug\Iuli Problem 2 - Employee.exe.config
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\bin\Debug\Iuli Problem 2 - Employee.exe
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\bin\Debug\Iuli Problem 2 - Employee.pdb
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\obj\Debug\Iuli Problem 2 - Employee.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\obj\Debug\Iuli Problem 2 - Employee.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\obj\Debug\Iuli Problem 2 - Employee.exe
+C:\Users\ASUS\Documents\GitHub\Iuli-Practice\Iuli Problem 2 - Employee\Iuli Problem 2 - Employee\obj\Debug\Iuli Problem 2 - Employee.pdb
