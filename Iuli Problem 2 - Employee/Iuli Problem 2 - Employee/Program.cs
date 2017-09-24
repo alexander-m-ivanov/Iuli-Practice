@@ -21,12 +21,19 @@ namespace Iuli_Problem_2___Employee
                 staticLastName = "Petrov" + i;
                 staticEmail = string.Format("mail{0}@mail.com", i);
                 List <Interests> staticInterests = new List<Interests>();
-                staticInterests.Add(new Interests
+
+                Random random = new Random();
+                int numberOfInterests = random.Next(1, 10);
+                for (int j = 0; j < numberOfInterests; j++)
                 {
-                    Name = string.Format("Interest{0}", i),
-                    Type = string.Format("Type{0}", i),
-                    CreatedOn = DateTime.Now
-                });
+                    staticInterests.Add(new Interests
+                    {
+                        Name = string.Format("Interest{0}", j),
+                        Type = string.Format("Type{0}", j),
+                        CreatedOn = DateTime.Now
+                    });
+                }
+
                 employees.Add(new Employee
                 {
                     FirstName = staticFirstName,
@@ -46,8 +53,10 @@ namespace Iuli_Problem_2___Employee
                 {
                     Console.WriteLine(currentInterest.Name);
                     Console.WriteLine(currentInterest.Type);
-                    Console.WriteLine(currentInterest.CreatedOn + "\n");
+                    Console.WriteLine(currentInterest.CreatedOn);
                 }
+
+                Console.WriteLine();
             }
         }
     }
